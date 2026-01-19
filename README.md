@@ -9,7 +9,8 @@ I aim to keep improving as a developer by writing clean, maintainable code and c
   - 🎓 Studying Computer Science at East Carolina University
   - 💻 Focus areas: Backend Development, Web Applications, System Design
   - ⚙️ Experienced with:
-    - Languages: C, C++, Java, HTML, CSS, JavaScript
+    - Languages: C, C++, Java, HTML, CSS, JavaScript, Python
+       - Primary Focus on Java and Python
     - Concepts: Networking, OOP, Full-Stack Basics, Client–Server Communication
   -🚀 Currently learning more about JavaScript interactivity, web app scalability, and real-time networking
 
